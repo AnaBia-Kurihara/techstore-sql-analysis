@@ -1,6 +1,4 @@
--- =====================================================================
 -- PROJETO: TechStore BR - Analise de Vendas em SQL
--- Arquivo: 01_schema.sql
 -- Descricao: Criacao das tabelas do banco de dados (modelo relacional)
 -- =====================================================================
 
