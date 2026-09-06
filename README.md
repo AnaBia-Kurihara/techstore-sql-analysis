@@ -1,6 +1,6 @@
 # 📊 TechStore BR — Projeto de Análise de Vendas em SQL
 
-Projeto de portfólio construído para consolidar os conhecimentos das trilhas **"Conhecendo SQL"** e **"Praticando SQL"** (13 cursos | ~70h). Simula o banco de dados de um e-commerce de eletrônicos e responde perguntas reais de negócio usando **SQL puro**, do modelo relacional à análise final, com um dashboard em Excel para visualização dos resultados.
+Projeto para consolidar os conhecimentos das trilhas **"Conhecendo SQL"** e **"Praticando SQL"** (13 cursos | ~70h). Simula o banco de dados de um e-commerce de eletrônicos e responde perguntas reais de negócio usando **SQL puro**, do modelo relacional à análise final, com um dashboard em Excel para visualização dos resultados.
 
 > 💡 Os dados são **sintéticos** (gerados com Python/Faker), mas o modelo, as regras de negócio e as consultas foram desenhados para refletir um cenário real de análise de vendas.
 
@@ -131,8 +131,3 @@ Projeto desenvolvido após conclusão das trilhas:
 - **Conhecendo SQL** — 4 cursos | 34h
 - **Praticando SQL** — 9 cursos | 36h
 
----
-
-## 👤 Autor
-
-Seu Nome · [LinkedIn](#) · [GitHub](#)
